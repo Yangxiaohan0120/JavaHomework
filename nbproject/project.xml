@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>JavaHomework</name>
+            <source-roots>
+                <root id="src.src.dir"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>inputfile</word>
+            <word>天数n的矩阵</word>
+            <word>此程序用于展示新冠肺炎在各国的增张情况以及在各国之间的分布情况</word>
+            <word>输入文件格式为国家m</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
